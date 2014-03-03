@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/zq54zquan/SLNavigationbarManager"
   s.license      = 'MIT'
   s.author             = { "Gabriel" => "zq54zquan@gmail.com" }
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios, '6.0'
   s.source       = { :git => "https://github.com/zq54zquan/SLNavigationbarManager.git", :commit => "928ab2a1f0f5a32d7c07226c6e8b4fa22e32ddb7" }
   s.source_files  = 'SLNavigationBarManager/navManager/*.{h,m}'
   s.requires_arc = true
